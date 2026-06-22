@@ -1,6 +1,8 @@
 # fdid_r
 Factorial Difference-in-Differences (FDID) Estimation Use fdid With (In) R Software
 
+https://www.youtube.com/watch?v=ZsyklqxCdJU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
